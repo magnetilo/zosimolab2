@@ -6,10 +6,10 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: Forever Jekyll
+title: ZosimoLab
 
 # Short bio or description (displayed in the header)
-description: A simple, elegant and full featured Jekyll theme
+description: Data and knowledge company by Thilo Weber
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
@@ -20,44 +20,43 @@ avatar: /assets/image/avatar.png
 
 # Your website URL (e.g. https://forever-jekyll.github.io or https://forever-jekyll.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://forever-jekyll.github.io
+url: https://magnetilo.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/zosimolab2"
 
 # Navigation menu
 navigation_links:
-  - title: Blog
-    url: /
+  - title: Data Alchemy
+    url: /data-alchemy
 
+  - title: Inner Alchemy
+    url: /inner-alchemy
+  
   - title: About
     url: /about
+  
+  - title: Blog
+    url: /blog
 
-  - title: Search
-    url: /search
+  - title: Contact
+    url: /contact
 
 # Footer icons
 footer_links:
-  - title: Feed
-    url: feed.xml
-    icon: fa fa-rss-square
+  - title: LinkedIn
+    url: https://linkedin.com/thilo-weber
+    icon: fa fa-linkedin-square
 
-  - title: Twitter
-    url: https://twitter.com/jekyllrb
-    icon: fa fa-twitter-square
-
-  - title: GitHub
-    url: https://github.com/forever-jekyll
-    icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
 #copyright: "This site is made with <3 by *me, myself, and I*."
 
 # Time zone
-timezone: null
+timezone: Europe/Zurich
 
 # Excerpt separator
 excerpt_separator: <!--more-->
